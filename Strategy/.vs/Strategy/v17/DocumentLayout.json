@@ -1,121 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\",
+  "WorkspaceRootPath": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\imt\\Strategy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\viewmodels\\employeesvm\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\viewmodels\\employeesvm\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\utilities\\validators\\filevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\utilities\\validators\\filevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\viewmodels\\employeesvm\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\viewmodels\\employeesvm\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\utilities\\enums\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\utilities\\enums\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\viewmodels\\employeesvm\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\viewmodels\\employeesvm\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\migrations\\20250521123921_nnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\migrations\\20250521123921_nnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\strategy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\strategy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\imt\\strategy\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\imt\\strategy\\strategy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\novbe2\\source\\repos\\Strategy\\Strategy\\Migrations\\20250521103449_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\strategy\\strategy\\strategy\\strategy\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\imt\\strategy\\strategy\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{178CDA4D-461D-4433-B40C-974553B71F8E}|Strategy\\Strategy.csproj|solutionrelative:strategy\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -125,357 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileValidators.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Utilities\\Validators\\FileValidators.cs",
-              "RelativeDocumentMoniker": "Strategy\\Utilities\\Validators\\FileValidators.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Utilities\\Validators\\FileValidators.cs",
-              "RelativeToolTip": "Strategy\\Utilities\\Validators\\FileValidators.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:40:25.521Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:55:59.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Strategy\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Models\\Employee.cs",
-              "RelativeToolTip": "Strategy\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:20:20.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T08:57:24.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:50:35.935Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\imt\\Strategy\\Strategy\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Strategy\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\imt\\Strategy\\Strategy\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Strategy\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T09:14:59.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T10:16:50.912Z",
+              "WhenOpened": "2025-05-23T07:27:11.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T10:47:51.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateEmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ViewModels\\EmployeesVM\\CreateEmployeeVM.cs",
-              "RelativeDocumentMoniker": "Strategy\\ViewModels\\EmployeesVM\\CreateEmployeeVM.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ViewModels\\EmployeesVM\\CreateEmployeeVM.cs",
-              "RelativeToolTip": "Strategy\\ViewModels\\EmployeesVM\\CreateEmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\imt\\Strategy\\Strategy\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Strategy\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\imt\\Strategy\\Strategy\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Strategy\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:03:37.735Z"
+              "WhenOpened": "2025-05-23T07:01:05.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetEmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ViewModels\\EmployeesVM\\GetEmployeeVM.cs",
-              "RelativeDocumentMoniker": "Strategy\\ViewModels\\EmployeesVM\\GetEmployeeVM.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ViewModels\\EmployeesVM\\GetEmployeeVM.cs",
-              "RelativeToolTip": "Strategy\\ViewModels\\EmployeesVM\\GetEmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:02:19.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FileType.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Utilities\\Enums\\FileType.cs",
-              "RelativeDocumentMoniker": "Strategy\\Utilities\\Enums\\FileType.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Utilities\\Enums\\FileType.cs",
-              "RelativeToolTip": "Strategy\\Utilities\\Enums\\FileType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:39:25.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T10:48:05.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Strategy\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Strategy\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:17:02.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\appsettings.json",
-              "RelativeDocumentMoniker": "Strategy\\appsettings.json",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\appsettings.json",
-              "RelativeToolTip": "Strategy\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T10:24:11.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T10:47:24.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UpdateEmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ViewModels\\EmployeesVM\\UpdateEmployeeVM.cs",
-              "RelativeDocumentMoniker": "Strategy\\ViewModels\\EmployeesVM\\UpdateEmployeeVM.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ViewModels\\EmployeesVM\\UpdateEmployeeVM.cs",
-              "RelativeToolTip": "Strategy\\ViewModels\\EmployeesVM\\UpdateEmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:03:59.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Strategy\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHMDAAAAAAAAAADgv4IDAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T10:13:16.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Strategy\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Strategy\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:14:46.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250521123921_nnn.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Migrations\\20250521123921_nnn.cs",
-              "RelativeDocumentMoniker": "Strategy\\Migrations\\20250521123921_nnn.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Migrations\\20250521123921_nnn.cs",
-              "RelativeToolTip": "Strategy\\Migrations\\20250521123921_nnn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:39:21.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Strategy\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "Strategy\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:18:20.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Strategy.csproj",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Strategy.csproj",
-              "RelativeDocumentMoniker": "Strategy\\Strategy.csproj",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Strategy.csproj",
-              "RelativeToolTip": "Strategy\\Strategy.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-21T10:14:10.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Strategy\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAA4BAAAAAAAAAAD4vx0BAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T10:47:38.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Strategy\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Strategy\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-21T10:44:52.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20250521103449_new.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Strategy\\Strategy\\Migrations\\20250521103449_new.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\novbe2\\source\\repos\\Strategy\\Strategy\\Migrations\\20250521103449_new.cs",
-              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Strategy\\Strategy\\Migrations\\20250521103449_new.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\novbe2\\source\\repos\\Strategy\\Strategy\\Migrations\\20250521103449_new.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:34:49.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Strategy\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T10:31:57.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Strategy\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T10:24:03.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\imt\\Strategy\\Strategy\\Program.cs",
               "RelativeDocumentMoniker": "Strategy\\Program.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\imt\\Strategy\\Strategy\\Program.cs",
               "RelativeToolTip": "Strategy\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:11:20.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Strategy\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Strategy\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAtwJIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T10:12:06.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "Strategy\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\strategy\\strategy\\Strategy\\Strategy\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "Strategy\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:23:05.477Z"
+              "WhenOpened": "2025-05-23T06:46:01.438Z",
+              "EditorCaption": ""
             }
           ]
         }

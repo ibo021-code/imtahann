@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Strategy.DAL;
+using Strategy.Models;
 
 namespace Strategy
 {
@@ -16,6 +18,7 @@ namespace Strategy
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
 
             });
+            builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
             var app = builder.Build();
 
@@ -29,6 +32,8 @@ namespace Strategy
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseRouting();
 
