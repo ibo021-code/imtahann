@@ -1,0 +1,29 @@
+﻿@model CreateEmployeeVM
+
+<form method="post" enctype="multipart/form-data">
+    <label asp-for="Name">Name</label> />
+    <input value="@Model.Name" type="text" asp-for="Name" />
+    <span class="text-danger" asp-validation-for="Name"></span>
+
+
+    <label asp-for="Position">position</label> />
+    <input value="@Model.Position" type="text" asp-for="Position" />
+    <span class="text-danger" asp-validation-for="Position"></span>
+
+
+
+    <label asp-for="Description">description</label> />
+    <input value="@Model.Description" type="text" asp-for="Description" />
+    <span class="text-danger" asp-validation-for="Description"></span>
+
+    <label asp-for="Link">link</label> />
+    <input value="@Model.Link" type="text" asp-for="Link" />
+    <span class="text-danger" asp-validation-for="Link"></span>
+
+    <label asp-for="Photo">photo</label> />
+    <input type="file" asp-for="Photo" />
+    <span class="text-danger" asp-validation-for="Photo"></span>
+
+
+    <button class="btn btn-success">update</button>
+</form>
